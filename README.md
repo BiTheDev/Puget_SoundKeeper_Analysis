@@ -68,7 +68,6 @@ Overall the UI/UX design is relatively clean and simple, there's some pros and c
 * environmental Problem
     * With this web tool, it does reflect some environmental problems. Such as over harvesting,oil spill or other environmental incident that leads to the critical area in the nearshore in Puget Sound Region
     * This web tool also reflects that no matter where we lived, we need to care about our environment. To allow the environment to support our live, such as clean water, non-toxic soil and fish habitat.
-    * 
 
 
 
